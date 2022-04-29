@@ -5,10 +5,6 @@ My Name is **Zulfikri Mirza**
 
 Bachelor Degree in Computer Science/Informatics from Institut Teknologi Nasional Bandung, Indonesia
 
-I'm currently learning Programming, Deep Learning, and Machine Learning especially on Data Science Field
-
-Trying to always be better day by day !
-
 - 🌱 I’m currently learning Machine Learning Especially in Data Science, Python, Golang 
 
 # **Socials**
