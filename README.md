@@ -5,7 +5,7 @@ My Name is **Zulfikri Mirza**
 
 Bachelor Degree in Computer Science/Informatics from Institut Teknologi Nasional Bandung, Indonesia
 
-- 🌱 I’m currently Re-Learning Web Devleoping especially Frontend Web Developing with ReactJS
+- 🌱 I’m currently Re-Learning Web Devleoping especially Frontend Web Developing with ReactJS and NextJS
 
 # **Socials**
 
